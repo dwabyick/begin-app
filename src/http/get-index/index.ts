@@ -12,7 +12,7 @@ let body = `
 
     <h1 class="center-text">
       <!-- ↓ Change "Hello wabysabi!" to something else and head on back to Begin! -->
-      Hello world!
+      Hello wabysabi
     </h1>
 
     <p class="center-text">
