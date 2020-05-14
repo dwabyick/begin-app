@@ -11,7 +11,7 @@ let body = `
   <body>
 
     <h1 class="center-text">
-      <!-- ↓ Change "Hello world!" to something else and head on back to Begin! -->
+      <!-- ↓ Change "Hello wabysabi!" to something else and head on back to Begin! -->
       Hello world!
     </h1>
 
